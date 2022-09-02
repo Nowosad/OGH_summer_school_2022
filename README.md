@@ -1,3 +1,5 @@
+## [**28 August -- 03 September 2022, OpenGeoHub Summer School 2022, Siegburg**](https://opengeohub.org/summer-school/siegburg-2022/)
+
 ### Tom Hengl: “Modern challanges of geospatial data science: the Open-Earth-Monitor project”
 ### Ben Graeler: “AI Strategy for Earth System Data – KI:STE project” 
 ### Martin Schultz: “Machine learning for weather, air quality and climate”
