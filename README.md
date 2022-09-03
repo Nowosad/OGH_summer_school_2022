@@ -50,6 +50,6 @@
 - [Workshop materials #2](https://cn-vector-data-vis.s3.eu-central-1.amazonaws.com/cn-vector-data-vis.html)
 - [Workshop materials #3](https://cn-data-creation.s3.eu-central-1.amazonaws.com/cloud_optimised_data.html)
 
-### Hackathon
+### Other
 
-- [Francisco Zambrano](https://frzambra.github.io/Hackaton1/report_hack1.html)
+- [Winning hackathon submission by Francisco Zambrano](https://frzambra.github.io/Hackaton1/report_hack1.html)
