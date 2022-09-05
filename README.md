@@ -7,6 +7,9 @@
 - [Workshop materials](https://b2drop.eudat.eu/s/GCyCgxPe3Wwpzpe)
 
 ### Markus Konkol: “Open Reproducible Research – Concepts, challenges, and solutions”
+
+- [Slides](https://github.com/Nowosad/OGH_summer_school_2022/raw/main/resources/open_reproducible_research.pdf)
+
 ### Jakub Nowosad: “Geocomputation with R’s guide to reproducible spatial data analysis”
 
 - [Slides](https://jakubnowosad.com/ogh2022/)
