@@ -36,6 +36,10 @@
 - [Workshop materials #2](https://gitlab.com/leal.parente/geo-snippets/-/blob/main/lidar/icesat2_atl08.ipynb)
 
 ### Ribana Roscher: “Explainable ML”
+
+- [Slides #1](https://github.com/Nowosad/OGH_summer_school_2022/raw/main/resources/lecture-KISTE_SS_roscher_partI.pdf)
+- [Slides #2](https://github.com/Nowosad/OGH_summer_school_2022/raw/main/resources/lecture-KISTE_SS_roscher_partII.pdf)
+
 ### Patrick Schratz: “Introduction to mlr3 (R tutorial)”
 
 - [Workshop materials](https://github.com/mlr-org/opengeohub-summer-school-2022)
