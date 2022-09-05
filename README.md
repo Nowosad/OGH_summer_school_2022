@@ -15,6 +15,9 @@
 - [Slides](https://jakubnowosad.com/ogh2022/)
 
 ### Edzer Pebesma: “R-spatial updates: sf, sftime, stars”
+
+- [Workshop materials](https://github.com/edzer/OGH22)
+
 ### Christian Autermann: “GeoNode as Research Data Infrastructure”
 ### Martijn Visser; Maarten Pronk: “JuliaGeo: a gentle introduction”
 
@@ -32,6 +35,9 @@
 - [Workshop materials](https://github.com/BenGraeler/ogh2022)
 
 ### Leandro Parente: “Accessing and using data cubes: spatial overlay, visualization and modeling – Python tutorial”
+
+- [Workshop materials](https://gitlab.com/leal.parente/geo-snippets/-/blob/main/data_cubes/Accessing_and_using_data_cubes_summer_school_2022.ipynb)
+
 ### Markus Abel: “Stochastic processes, analysis, examples (Python tutorial)”
 ### Edzer Pebesma & Leandro Parente: “Geo-arrow and geo-parquet”
 
@@ -43,9 +49,10 @@
 - [Slides #1](https://github.com/Nowosad/OGH_summer_school_2022/raw/main/resources/lecture-KISTE_SS_roscher_partI.pdf)
 - [Slides #2](https://github.com/Nowosad/OGH_summer_school_2022/raw/main/resources/lecture-KISTE_SS_roscher_partII.pdf)
 
-### Patrick Schratz: “Introduction to mlr3 (R tutorial)”
+### Patrick Schratz: “Introduction to mlr3 (R tutorial)” and Patrick Schratz & Leandro Parente: “Spatial modeling using mlr3 (R tutorial)”
 
-- [Workshop materials](https://github.com/mlr-org/opengeohub-summer-school-2022)
+- [Workshop materials #1](https://github.com/mlr-org/opengeohub-summer-school-2022)
+- [Workshop materials #2](https://gitlab.com/leal.parente/geo-snippets/-/tree/main/mlr3)
 
 ### Hanna Meyer: “ML in R: how to deal with extrapolation and overfitting problems”
 
@@ -59,4 +66,5 @@
 
 ### Other
 
+- [Hackathon instructions](https://gitlab.com/leal.parente/geo-snippets/-/blob/main/hackathon/pasture_classification_summer_school_2022.ipynb)
 - [Winning hackathon submission by Francisco Zambrano](https://frzambra.github.io/Hackaton1/report_hack1.html)
